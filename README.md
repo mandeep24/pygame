@@ -1,5 +1,5 @@
 # pygame
-A pygame I am still in the progress of working on 
+A pygame I am still in the progress of working on. I will load all the appropiate files once I have completed this project
 
 
 
